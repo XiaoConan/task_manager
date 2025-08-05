@@ -3,8 +3,8 @@
 A simple full-stack task management app with user authentication using the MERN stack (MongoDB, Express, React, Node.js) and JWT.
 
 # Live Demo
-- Frontend: [https://task-manager-jerry-hans-projects.vercel.app/](https://missionperform-task-manager-frontend.vercel.app)  
-- Backend: [https://missionperform-task-manager-38261de91026.herokuapp.com/](https://missionperform-task-manager.herokuapp.com)
+- Frontend: [https://missionperform-task-manager-frontend.vercel.app](https://task-manager-jerry-hans-projects.vercel.app/)  
+- Backend: [https://missionperform-task-manager.herokuapp.com](https://missionperform-task-manager-38261de91026.herokuapp.com/)
 
 
 ## Features
