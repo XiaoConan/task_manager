@@ -2,6 +2,11 @@
 
 A simple full-stack task management app with user authentication using the MERN stack (MongoDB, Express, React, Node.js) and JWT.
 
+# Live Demo
+- Frontend: [https://task-manager-jerry-hans-projects.vercel.app/](https://missionperform-task-manager-frontend.vercel.app)  
+- Backend: [https://missionperform-task-manager-38261de91026.herokuapp.com/](https://missionperform-task-manager.herokuapp.com)
+
+
 ## Features
 
 - User registration and login with JWT
@@ -17,7 +22,7 @@ A simple full-stack task management app with user authentication using the MERN 
 - Authentication: JSON Web Tokens (JWT)
 - HTTP Client: Axios
 
-## Setup Instructions
+## Setup Instructions (Use `develop` branch)
 
 ### Backend
 
@@ -117,4 +122,6 @@ This project was built as a full-stack task management app using the MERN stack 
 - **Token Storage in LocalStorage:**  
   Tokens are stored in `localStorage` for simplicity, enabling persistent login sessions across page reloads. In production, further considerations like refresh tokens or HttpOnly cookies may be adopted for enhanced security.
 
-
+## Branch Strategy
+- main: For live production deployment
+- develop: For local development and ongoing feature work
