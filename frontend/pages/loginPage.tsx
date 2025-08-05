@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { login, register } from "../services/authService.tsx";
 import { useNavigate } from "react-router-dom";
 

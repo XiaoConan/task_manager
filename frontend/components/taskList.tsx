@@ -1,4 +1,3 @@
-import React from "react";
 import TaskItem from "./taskItem";
 import type { Task } from "../services/taskService.tsx";
 
